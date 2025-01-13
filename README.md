@@ -9,7 +9,6 @@ Citation:
   title={A Large-Language Model Framework for Relative Timeline Extraction from PubMed Case Reports},
   author={Wang, Jing and Weiss, Jeremy},
   booktitle={Proceedings of the AMIA Informatics Summit},
-  volume={2015},
   year={2025},
   organization={American Medical Informatics Association}
 }
