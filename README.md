@@ -1,5 +1,5 @@
 # LLM-Timeline-PMOA
-A LLM Framework for Relative Timeline Extraction from PubMed Case Reports
+[A LLM Framework for Relative Timeline Extraction from PubMed Case Reports](https://github.com/jcweiss2/LLM-Timeline-PMOA/blob/main/Preprint%20AMIAIS2025_RelativeTimelineExtraction.pdf)
 
 Placeholder for the 2025 AMIA Informatics Summit paper.  Jing Wang and Jeremy C. Weiss. "A LLM Framework for Relative Timeline Extraction from PubMed Case Reports", AMIA IS 2025.
 
