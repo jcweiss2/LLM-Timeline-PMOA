@@ -5,7 +5,7 @@ Jing Wang and Jeremy C. Weiss. "A LLM Framework for Relative Timeline Extraction
 
 Citation:
 ```
-@inproceedings{weiss2015machine,
+@inproceedings{wang2025large,
   title={A Large-Language Model Framework for Relative Timeline Extraction from PubMed Case Reports},
   author={Wang, Jing and Weiss, Jeremy},
   booktitle={Proceedings of the AMIA Informatics Summit},
