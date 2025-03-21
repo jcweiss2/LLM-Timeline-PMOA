@@ -9,4 +9,4 @@
 3. Run compare_with_manual_iscr.R
 
 ### See the annotations (manual, LLMs)
-They are in the folder 'annotations/'
+They are in the annotations.zip file
